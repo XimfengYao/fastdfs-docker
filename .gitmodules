@@ -1,0 +1,4 @@
+[submodule "FastDFS"]
+path = FastDFS
+url = https://github.com/happyfish100/fastdfs.git
+branch = master
